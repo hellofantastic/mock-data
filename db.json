@@ -1,5 +1,17 @@
-[
-  {"date":1933389198,"message":"Weekly intent data updated.",id":"16e45"},  
-  {"date":1933489178,"message":"Weekly top 25 accounts refreshed.","id":"15da3"},  
-  {"date":1933589198,"message":"New data ready.","id":"1e233"}, 
+ [
+  { 
+    "date": 1933389198, 
+    "message": "Weekly intent data updated.", 
+    "id": "16e45" 
+  },
+  {
+    "date": 1933489178,
+    "message": "Weekly top 25 accounts refreshed.",
+    "id": "15da3",
+  },
+  { 
+    "date": 1933589198, 
+    "message": "New data ready.", 
+    "id": "1e233" 
+  },
 ]
