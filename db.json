@@ -1,25 +1,25 @@
 {
- 	"results": [{
- 			"date": 1933389198,
- 			"company": "IBM",
-    "score": "88",
- 			"id": "16e45",
-   "cluster": "1",
+	"results": [{
+			"date": "1933389198",
+			"company": "IBM",
+			"score": "88",
+			"id": "16e45",
+			"cluster": "1"
 
- 		},
- 		{
- 			"date": 1933489178,
- 			"company": "HP Inc",
-    "score": "76",
- 			"id": "15da3",
-    "cluster": "2",
- 		},
- 		{
- 			"date": 1933589198,
- 			"company": "General Motors",
-    "score": "83",
- 			"id": "1e233",
-    "cluster": "3",
- 		}
- 	]
- }
+		},
+		{
+			"date": "1933489178",
+			"company": "HP Inc",
+			"score": "76",
+			"id": "15da3",
+			"cluster": "2"
+		},
+		{
+			"date": "1933589198",
+			"company": "General Motors",
+			"score": "83",
+			"id": "1e233",
+			"cluster": "3"
+		}
+	]
+}
