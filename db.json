@@ -12,14 +12,14 @@
  			"company": "HP Inc",
     "score": "76",
  			"id": "15da3",
-    "cluster": "2"
+    "cluster": "2",
  		},
  		{
  			"date": 1933589198,
  			"company": "General Motors",
     "score": "83",
  			"id": "1e233",
-    "cluster": "3"
+    "cluster": "3",
  		}
  	]
  }
