@@ -1,17 +1,20 @@
 {
- 	"feedmessages": [{
+ 	"results": [{
  			"date": 1933389198,
- 			"message": "Weekly intent data updated.",
+ 			"company": "IBM",
+    "score": "88",
  			"id": "16e45"
  		},
  		{
  			"date": 1933489178,
- 			"message": "Weekly top 25 accounts refreshed.",
+ 			"company": "HP Inc",
+    "score": "76",
  			"id": "15da3"
  		},
  		{
  			"date": 1933589198,
- 			"message": "New data ready.",
+ 			"company": "General Motors",
+    "score": "83",
  			"id": "1e233"
  		}
  	]
